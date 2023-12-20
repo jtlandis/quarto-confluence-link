@@ -16,3 +16,7 @@ Quisque cursus eros dictum justo varius condimentum a ac risus. Vestibulum sodal
 |-----------------------------------|
 | [sub Page 1](reports/2022-01.qmd) |
 | [sub Page 2](reports/2022-03.qmd) |
+
+[go to section](section.qmd#Challenges and Opportunities)
+
+[New syntax](section.qmd#Challenges-and-Opportunities%5BinlineExtension%5D)
